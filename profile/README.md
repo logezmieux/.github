@@ -1,12 +1,7 @@
-## Hi there 👋
+# Logezmieux
 
-<!--
+Dans cette période de crise du logement, nous avons pour mission de relayer les informations entre les locataires des logements du Québec. Nous proposons à tous et à toutes de partager son expérience, qu'elle soit bonne ou mauvaise, dans le but d'être plus informé avant de signer un bail. Pour que la relation entre propriétaire et locataire soit enfin plus égale.
 
-**Here are some ideas to get you started:**
+Afin de faciliter la collaboration entre les locataires et aussi que ses créateurs ne soient plus un "bottleneck" de son évolution, nous avons pris la décision de rentre *Open Source* les différentes informations et données que nous avons collectées. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> L'anonymat reste une priorité pour nous, mais nous avons décidé de rendre les données disponibles à tous, sans restriction (excluant les adresses de contact).

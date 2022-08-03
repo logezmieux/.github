@@ -1,6 +1,6 @@
 # Logezmieux
 
-<img src="./assets/cover-image.jpg" alt="Logezmieux" style="width: 100%; height: auto;" />
+<img src="./profile/assets/cover-image.jpg" alt="Logezmieux" style="width: 100%; height: auto;" />
 
 Dans cette période de crise du logement, nous avons pour mission de relayer les informations entre les locataires des logements du Québec. Nous proposons à tous et à toutes de partager son expérience, qu'elle soit bonne ou mauvaise, dans le but d'être plus informé avant de signer un bail. Pour que la relation entre propriétaire et locataire soit enfin plus égale.
 
